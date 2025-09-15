@@ -54,4 +54,4 @@
 *    значение прибыли.
   
 ## Используемые библиотеки:
-*pandas, numpy, phik, sklearn, shap, matplotlib, seaborn, textwrap, os
+*pandas, numpy, phik, sklearn, shap, matplotlib, seaborn, textwrap, os*
