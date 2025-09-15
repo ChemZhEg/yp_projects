@@ -50,7 +50,7 @@
 
 ## Файлы с данными:
 
-  Датасет с данными об анкетах, автомобиляъ, их характеристиках и цене
+  Датасет с данными об анкетах, автомобиляx, их характеристиках и ценах
   
 ## Используемые библиотеки:
-*pandas, numpy, phik, sklearn, lightgbm, xgboost, catboost, optuna, shap, matplotlib, seaborn, inflection, textwrap, os, copy, time
+*pandas, numpy, phik, sklearn, lightgbm, xgboost, catboost, optuna, shap, matplotlib, seaborn, inflection, textwrap, os, copy, time*
